@@ -1,0 +1,45 @@
+
+body {
+	/*font-family: 'Rubik', sans-serif;*/
+	/*font-family: 'Signika', sans-serif;*/
+	font-family: 'Philosopher', sans-serif;
+	text-align: center;
+	background-image: url("spiral.jpg");
+	background-size: cover;
+	color: white;
+	background-repeat: no-repeat;
+	margin: 25px auto;
+}
+
+#container{
+	margin: 25px auto;
+	padding: 5px;
+	background-color: rgba(101, 232, 252, 0.7);
+	/*background-color: palevioletred;*/
+	width: 300px;
+	height: 500px;
+	border-radius: 10px;
+}
+ul{
+	text-align: left;
+	padding: 15px;
+	list-style-position: inside;
+}
+
+h1{
+	margin: 4px;
+	text-shadow: 4px 4px 2px #696969;
+}
+
+li{
+	font-size: 20px;
+	text-shadow: 1px 1px 2px #696969;
+}
+
+.text{
+	font-family: 'Philosopher', sans-serif;
+	font-size: 12px;	
+	background-color: lightgrey;
+	border-radius: 5px;
+}
+
